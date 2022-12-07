@@ -9,7 +9,7 @@ export default function Rodape() {
     <footer className={styles.rodape}>
       <div className={styles.rodape__icones}>
         <a
-          href="https://www.facebook.com/AluraCursosOnline/"
+          href="https://www.facebook.com/AndressadaCostaN"
           target="_blank"
           rel="noreferrer"
         >
@@ -23,14 +23,14 @@ export default function Rodape() {
           <img src={twitter} alt="ícone do twitter" />
         </a>
         <a
-          href="https://www.instagram.com/aluraonline/?hl=en"
+          href="https://www.instagram.com/andressacostaaaaaa/"
           target="_blank"
           rel="noreferrer"
         >
           <img src={instagram} alt="ícone do instagram" />
         </a>
       </div>
-      <p>Desenvolvido por Alura</p>
+      <p>Desenvolvido por @AndressaDaCosta</p>
     </footer>
   );
 }
