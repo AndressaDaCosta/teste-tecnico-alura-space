@@ -4,7 +4,7 @@ import maisCurtidas from 'assets/icones/mais-curtidas.png'
 import maisVistas from 'assets/icones/mais-vistas.png'
 import novas from 'assets/icones/novas.png'
 import surpreendaMe from 'assets/icones/surpreenda-me.png'
-import styles from './Menu.module.scss';
+import styles from './Menu.module.scss'
 
 export default function Menu() {
   return (
