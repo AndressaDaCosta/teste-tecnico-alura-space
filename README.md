@@ -90,7 +90,7 @@ O layout da aplicação está disponível no Figma:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/NeiltonSeguins/alura-space.git
+$ git clone https://github.com/AndressaDaCosta/teste-tecnico-alura-space.git
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd alura-space
 # Instale as dependências
