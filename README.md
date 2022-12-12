@@ -52,7 +52,7 @@ Desejamos uma boa sorte à todos!
 </p>
 
 <h1 align="center">
-    <img alt="Alura Space" title="#AluraSpace" src="./src/paginas/PaginaInicial/banner.png" />
+    <img alt="Alura Space" title="#AluraSpace" src="./src/componentes/Banner/banner.png" />
 </h1>
 
 ## 💻 Sobre o projeto
